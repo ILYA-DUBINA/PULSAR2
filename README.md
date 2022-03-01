@@ -3,3 +3,4 @@
    3 git commit -m "commet"
    4 git log / git log --oneline
    5 git push [rep_link] [branch_name]
+   git push origin(git remote -v) master(git branch)
