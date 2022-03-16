@@ -6,6 +6,7 @@
 
    git config (user.name user.email) - отображение имени и адреса НУЖНО ПРОВЕРЯТЬ ВСЕГДА
 
+   git pull origin branchname --allow-unrelated-histories - связывает не связанные папки(репозитории)
    git remote -v - просмотр папки привязана ли она к какому то репозиторию на github
    git remote add origin [url папки репозитория] - привязка нашей папки к папке репозитория на github
    git push origin(git remote -v) master(git branch)
